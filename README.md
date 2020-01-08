@@ -1,3 +1,3 @@
 ## tr-menu
 
-menu ui component for react
+Ui component for React using TypeScript
