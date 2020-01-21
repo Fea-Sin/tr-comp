@@ -1,5 +1,13 @@
-@menuPrefixCls: tr-menu;
+@menuPrefixCls: tr-comp;
 
 .@{menuPrefixCls} {
-  color: green;
+
+  & > &-item-divider {
+    height: 10px;
+    margin: 1px 0;
+    overflow: hidden;
+    padding: 0;
+    line-height: 0;
+    background-color: #873bf4;    
+  }
 }
