@@ -1,3 +1,3 @@
-## tr-menu
+## tr-comp
 
-Ui component for React using TypeScript
+A template UI component for React using TypeScript
