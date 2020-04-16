@@ -27,6 +27,6 @@ Divider.defaultProps = {
   rootPrefixCls: 'tr-comp',
 };
 
-Divider.isDone = 'hello world';
+Divider.displayName = 'hello world';
 
 export default Divider;

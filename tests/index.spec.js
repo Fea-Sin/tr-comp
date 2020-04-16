@@ -3,6 +3,6 @@ import Comp from '../src';
 
 describe('tr-comp', () => {
   it('base test tr-comp', () => {
-    expect(Comp.isDone).toBe('hello world');
+    expect(Comp.displayName).toBe('hello world');
   });
 });
