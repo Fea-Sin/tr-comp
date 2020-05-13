@@ -39,6 +39,7 @@
   },
   "dependencies": {
     "classnames": "2.x",
+    "lodash": "^4.17.15",
     "mini-store": "^2.0.0",
     "rc-animate": "^2.10.1",
     "rc-trigger": "^4.0.0-alpha.4",
